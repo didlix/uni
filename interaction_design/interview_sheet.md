@@ -56,6 +56,7 @@ Ask open eneded questions, only ask stuff that seems relevant.
 
 ### Transport
 
+* What type of transport do you use when visiting / leaving a high-street?
 * Are you satisfied by the quality of passenger information at bus stops/train stations in your area?
 * Should the need arise for you to get a mini cab do you know the number to call?
 
