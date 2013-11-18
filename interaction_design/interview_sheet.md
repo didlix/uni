@@ -54,10 +54,6 @@ Ask open eneded questions, only ask stuff that seems relevant.
 * Tell me about any accesability issues you have or witness on high-streets? 
 * …And in shops/post-office/other establishments?
 
-### Crime
-
-Tell me about crime…
-
 ### Transport
 
 * Are you satisfied by the quality of passenger information at bus stops/train stations in your area?
