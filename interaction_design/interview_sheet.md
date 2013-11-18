@@ -55,6 +55,8 @@ Ask open eneded questions, only ask stuff that seems relevant.
 * …And in shops/post-office/other establishments?
 
 ### Transport
+    Depending on what transport they use ask more question like:
+    * How does time of day affect your needs
 
 * What type of transport do you use when visiting / leaving a high-street?
 * Are you satisfied by the quality of passenger information at bus stops/train stations in your area?
